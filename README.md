@@ -18,6 +18,8 @@
 
 ## 🛠️ Tech Stack
 
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,mongodb,mysql,git,github,postman,vscode&theme=dark)
+
 ### Languages & Backend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -54,14 +56,9 @@
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikramjeetc5&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramjeetc5&layout=compact&theme=tokyonight&hide_border=true)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vikramjeetc5&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,mongodb,mysql,git,github,postman,vscode&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramjeetc5&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vikramjeetc5&color=blueviolet&style=for-the-badge)
 
@@ -69,18 +66,18 @@
 
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikramjeetc5)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulsharma)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.sharma@example.com)
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories.
+###⭐ Thanks for visiting my profile! Feel free to explore my repositories.
 
-## 📫 Let's Connect
+## 📫 Project Repos
 
-<p align="center">
-  <a href="https://linkedin.com/in/rahulsharma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:rahul.sharma@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=vikramjeetc5&repo=static_web&theme=tokyonight&hide_border=true)](https://github.com/vikramjeetc5/Vikram-DocusaurusVikram-Docusaurus)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=vikramjeetc5&repo=static_web&theme=tokyonight&hide_border=true)](https://github.com/vikramjeetc5/Vikram-SwaggerUIVikram-SwaggerUI)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=vikramjeetc5&repo=static_web&theme=tokyonight&hide_border=true)](https://github.com/vikramjeetc5/Vikram-GitbookVikram-Gitbook
+)
+
 ---
