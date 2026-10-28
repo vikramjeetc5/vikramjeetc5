@@ -73,9 +73,9 @@
 
 ## 📫 Project Repos
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=vikramjeetc5&repo=static_web&theme=tokyonight&hide_border=true)](https://github.com/vikramjeetc5/Vikram-Docusaurus)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=vikramjeetc5&repo=static_web&theme=tokyonight&hide_border=true)](https://github.com/vikramjeetc5/Vikram-SwaggerUI)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=vikramjeetc5&repo=static_web&theme=tokyonight&hide_border=true)](https://github.com/vikramjeetc5/Vikram-Gitbook)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=vikramjeetc5&repo=Vikram-Docusaurus&theme=tokyonight&hide_border=true)](https://github.com/vikramjeetc5/Vikram-Docusaurus)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=vikramjeetc5&repo=Vikram-SwaggerUI&theme=tokyonight&hide_border=true)](https://github.com/vikramjeetc5/Vikram-SwaggerUI)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=vikramjeetc5&repo=/Vikram-Gitbook&theme=tokyonight&hide_border=true)](https://github.com/vikramjeetc5/Vikram-Gitbook)
 
 ---
 
