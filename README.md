@@ -71,13 +71,12 @@
 
 ---
 
-###⭐ Thanks for visiting my profile! Feel free to explore my repositories.
-
 ## 📫 Project Repos
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=vikramjeetc5&repo=static_web&theme=tokyonight&hide_border=true)](https://github.com/vikramjeetc5/Vikram-DocusaurusVikram-Docusaurus)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=vikramjeetc5&repo=static_web&theme=tokyonight&hide_border=true)](https://github.com/vikramjeetc5/Vikram-SwaggerUIVikram-SwaggerUI)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=vikramjeetc5&repo=static_web&theme=tokyonight&hide_border=true)](https://github.com/vikramjeetc5/Vikram-GitbookVikram-Gitbook
-)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=vikramjeetc5&repo=static_web&theme=tokyonight&hide_border=true)](https://github.com/vikramjeetc5/Vikram-Docusaurus)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=vikramjeetc5&repo=static_web&theme=tokyonight&hide_border=true)](https://github.com/vikramjeetc5/Vikram-SwaggerUI)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=vikramjeetc5&repo=static_web&theme=tokyonight&hide_border=true)](https://github.com/vikramjeetc5/Vikram-Gitbook)
 
 ---
+
+## ⭐ Thanks for visiting my profile! Feel free to explore my repositories.
