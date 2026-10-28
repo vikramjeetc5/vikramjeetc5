@@ -7,13 +7,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  💼 Software Developer at Pinnacle Teleservices<br>
-  💡 2+ years of professional development experience<br>
-  🤖 Built WhatsApp chatbots for government services<br>
-  ⚙️ Focused on backend development and REST APIs<br>
-  📝 Skilled in API and chatbot workflow documentation<br>
-  🗄️ Experienced with MongoDB and SQL databases<br>
-  🌱 Always learning and improving my technical skills
+  I'm a Software Developer at <b>Pinnacle Teleservices</b> with <b>2+ years of professional development experience</b>. I've built <b>WhatsApp chatbots for government services</b> and focus on <b>backend development and REST APIs</b>. I'm skilled in <b>API and chatbot workflow documentation</b> and experienced with <b>MongoDB and SQL databases</b>. I'm always learning and improving my technical skills. 🌱
 </p>
 
 ---
@@ -56,19 +50,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-</p>
-
----
-
-<h2 align="center">💻 What I Do</h2>
-
-<p align="center">
-  Develop and maintain backend applications using Node.js and Express.js.<br>
-  Build WhatsApp chatbot workflows: OTP verification, registration, forms, document uploads, payments, and certificate downloads.<br>
-  Maintain aggregator middleware, including query processing, exception handling, API key management, and logging.<br>
-  Build and integrate RESTful APIs, and handle external API calls using Axios.<br>
-  Monitor cron jobs and SFTP logs, and generate MIS reports for clients.<br>
-  Write API documentation with Swagger UI and Docusaurus, plus chatbot workflow guides.
 </p>
 
 ---
