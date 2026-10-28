@@ -4,21 +4,6 @@
   Software Developer | WhatsApp Chatbots & Backend Operations | Technical Documentation
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/rahulsharma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:rahul.sharma@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-# Hey, I'm Rahul Sharma 👋
-
-### Software Developer | Node.js | Express.js | MongoDB | SQL
-
-I'm a Software Developer with **2+ years of professional experience** at **Pinnacle Teleservices**, working on **WhatsApp chatbots** and **backend messaging systems**.
-
-I specialize in backend development, API integrations, and technical documentation. I enjoy building reliable services, solving technical problems, and writing documentation that makes complex systems easy to understand.
-
----
-
 ## 👨‍💻 About Me
 
 - 💼 Software Developer at Pinnacle Teleservices
@@ -76,8 +61,6 @@ I specialize in backend development, API integrations, and technical documentati
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vikramjeetc5&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikramjeetc5&theme=tokyo-night)
-
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,mongodb,mysql,git,github,postman,vscode&theme=dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vikramjeetc5&color=blueviolet&style=for-the-badge)
@@ -96,9 +79,8 @@ I specialize in backend development, API integrations, and technical documentati
 
 ## 📫 Let's Connect
 
-I'm open to opportunities in **backend development, chatbot development, and API/technical documentation**.
-
 <p align="center">
-  <a href="https://linkedin.com/in/rahulsharma">LinkedIn</a> •
-  <a href="mailto:rahul.sharma@example.com">Email</a>
+  <a href="https://linkedin.com/in/rahulsharma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rahul.sharma@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+---
